@@ -25,5 +25,5 @@ document.querySelector('.btn-confirmar').addEventListener('click', function () {
 })
 
 document.querySelector('.btn-frete').addEventListener('click', function () {
-  window.location.href = 'https://www.google.com'
+  window.location.href = 'https://pay.pagamento-online.app/checkout/28fd6c2c-fd5a-4b08-948b-d470d43fb18e'
 })
